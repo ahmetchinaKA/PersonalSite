@@ -1,0 +1,23 @@
+{
+    "id": 15,
+    "name": "Карина",
+    "age": 23,
+    "gender": "female",
+    "lapushka":true,
+    "favorite_food": [
+          "chocolate",
+          "pasta",
+          "pomegranate",
+          "sour candy"
+        ],
+    "friends": [
+      {
+        "id": 24,
+        "name": "Кабаны"
+        },
+    {
+        "id": 25,
+        "name": "Владос"
+        }
+  ]
+  }
